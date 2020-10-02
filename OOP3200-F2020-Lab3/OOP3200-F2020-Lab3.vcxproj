@@ -144,6 +144,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ConsoleInput.h" />
+    <ClInclude Include="ExtendedWorkTicket.h" />
     <ClInclude Include="MyDate.h" />
     <ClInclude Include="WorkTicket.h" />
   </ItemGroup>
