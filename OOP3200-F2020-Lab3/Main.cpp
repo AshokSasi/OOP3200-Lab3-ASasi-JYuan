@@ -1,4 +1,12 @@
-
+//File: Main.cpp
+// Title:  OOP 3200 Lab 3 - Inheritance
+// Made by: Jacky Yuan, 100520106
+//          Ashok Sasitharan, 100745484
+// Date Created: October 2, 2020
+// Description: Program used to generate and track work tickets for client requests.
+//
+// Change Log:No changes were made to Main.cpp
+//
 
 #include <iostream>
 #include "ExtendedWorkTicket.h"
